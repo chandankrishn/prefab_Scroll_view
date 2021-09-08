@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.30",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "117cafac-b177-4df2-a1b1-e1713ce815fb",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "Sprite"
+  }
+}

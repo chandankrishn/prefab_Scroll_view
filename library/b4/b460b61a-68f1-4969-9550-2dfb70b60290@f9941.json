@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shield_PNG1279",
+    "atlas": "",
+    "rect": {
+      "x": 64,
+      "y": 65,
+      "width": 763,
+      "height": 763
+    },
+    "offset": {
+      "x": -1.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 894,
+      "height": 894
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b460b61a-68f1-4969-9550-2dfb70b60290@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB": {
+    "time": 1631006420424.7766,
+    "uuid": "aab7fd33-ca3a-4063-a79e-c81117bfba52",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB.meta": {
+    "time": 1631005585143.408
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB/Canvas.prefab.meta": {
+    "time": 1631005587714.4407
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/MAIN.scene": {
+    "time": 1631006446155.8782,
+    "uuid": "89d5dd7a-49ab-4dea-b013-3d47debd05c2",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/MAIN.scene.meta": {
+    "time": 1631005678498.9822
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/scene.scene": {
+    "time": 1631020483521.9622,
+    "uuid": "516a4946-8f43-422b-8eb3-19c43a78a17f",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/scene.scene.meta": {
+    "time": 1631005688848.4412
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES": {
+    "time": 1631006164655.832,
+    "uuid": "e6ff2b52-e1d1-48d3-8e46-da24db1f6177",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES.meta": {
+    "time": 1631005946046.2148
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES/109010265.jpeg": {
+    "time": 1631005986737.3242,
+    "uuid": "11d67da1-9ed7-4b56-8a17-0b6e5e4e5da4",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES/109010265.jpeg.meta": {
+    "time": 1631005986742.507
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES/shield_PNG1279.png": {
+    "time": 1631006164654.2063,
+    "uuid": "b460b61a-68f1-4969-9550-2dfb70b60290",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/IMAGES/shield_PNG1279.png.meta": {
+    "time": 1631006164702.3003
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB/Camera.prefab.meta": {
+    "time": 1631006256908.412
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB/Sprite.prefab": {
+    "time": 1631006420426.2466,
+    "uuid": "117cafac-b177-4df2-a1b1-e1713ce815fb",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/PREFAB/Sprite.prefab.meta": {
+    "time": 1631006420427.7874
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT": {
+    "time": 1631016681645.5164,
+    "uuid": "fa69047c-17b5-4ab0-b562-8efd96cbfea3",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT.meta": {
+    "time": 1631006517717.6619
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts": {
+    "time": 1631010642978.465,
+    "uuid": "bbeecb3d-1da6-4bda-9148-cb3d0a261d7b",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.meta": {
+    "time": 1631006534220.8955
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts": {
+    "time": 1631019906024.7969,
+    "uuid": "49436cac-7982-4325-8300-5976bfe1b434",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.meta": {
+    "time": 1631011514877.4019
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts": {
+    "time": 1631016681644.085,
+    "uuid": "32880422-55d6-415b-8043-95de84e126c7",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.meta": {
+    "time": 1631016681650.1775
+  }
+}

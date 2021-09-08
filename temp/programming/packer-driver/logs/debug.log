@@ -1,0 +1,706 @@
+debug: Tue, 07 Sep 2021 09:05:34 GMT
+debug: Project: /Users/chandankrishnani/CocosPractice/PREFAB
+debug: Targets: editor,preview
+debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open '/Users/chandankrishnani/CocosPractice/PREFAB/temp/programming/packer-driver/VERSION'
+debug: Clearing out the targets...
+debug: Engine path: /Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Module record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/chandankrishnani/CocosPractice/PREFAB/temp/programming/packer-driver/targets/editor/modules.json'
+debug: Loading cache costs 0.6429030001163483ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Module record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/chandankrishnani/CocosPractice/PREFAB/temp/programming/packer-driver/targets/preview/modules.json'
+debug: Loading cache costs 0.49637800082564354ms.
+debug: Sync engine features: base,gfx-webgl,2d,ui,physics-2d-box2d,intersection-2d,profiler,particle-2d,audio,video,webview,tween,tiled-map,spine,dragon-bones
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 9.784487001597881ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 0
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(editor) ends with cost 114.06078400090337ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(preview) ends with cost 83.18550699949265ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:09 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:49 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 62.26222999766469ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:09 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:49 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 330.1466370001435ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:49 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:52:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 14:52:14 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 14:57:57 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 171.84834700077772ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:49 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:52:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 14:52:14 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 14:57:57 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 191.64840599894524ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:52:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:55:36 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 14:57:57 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:00:59 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 124.18050900101662ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:52:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:55:36 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 14:57:57 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:00:59 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 176.7567030005157ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:55:36 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:11:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:00:59 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:16:46 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 161.50583400204778ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:55:36 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:11:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:00:59 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:16:46 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 111.83567900210619ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:11:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:16:46 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:28:32 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 130.12624000012875ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:11:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:16:46 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:28:32 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 142.4587190002203ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:26:07 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:28:32 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:31:29 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 206.6251160018146ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:26:07 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:28:32 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:31:29 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 212.2329349964857ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:26:07 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:27:57 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:31:29 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:33:20 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 234.29950199648738ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:26:07 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:27:58 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:31:29 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:33:20 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 246.38541499897838ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:27:57 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:50:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:33:20 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:55:47 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 210.3830519989133ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:27:58 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:50:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:33:20 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:55:47 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 260.28206099942327ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:50:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:52:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:55:47 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:58:23 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 121.23224100098014ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:50:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:52:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:55:47 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:58:23 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 240.25098000094295ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:52:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:54:07 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:58:23 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:59:29 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 113.40900100022554ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:52:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:54:07 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:58:23 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 15:59:29 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 184.77665900066495ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:54:07 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:09:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:59:29 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:00:42 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 101.05034000054002ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:54:07 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:09:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts. Last mtime: Tue Sep 07 2021 15:59:29 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:00:42 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 180.47466300055385ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:09:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:09:49 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 37.33074700087309ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:09:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:09:50 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 132.1010420024395ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:09:49 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:14:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:15:14 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:20:00 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 75.06979500129819ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:09:50 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:14:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:15:14 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:20:00 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 143.60624299943447ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:14:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:16:22 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:20:00 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:21:42 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 112.65202299878001ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:14:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:16:22 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:20:00 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:21:42 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 160.8722610026598ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:16:22 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:49:46 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:21:42 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:53:26 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 86.49977299943566ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:16:22 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 07:49:46 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:21:42 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 16:53:26 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 162.5329249985516ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:49:46 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:26:38 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:53:26 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 17:32:00 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 98.53104400262237ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:49:46 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:26:38 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 16:53:26 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 17:32:00 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 217.790759999305ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:26:38 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:31:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 17:32:00 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 17:37:02 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 68.6322680003941ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:26:38 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:31:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 17:32:00 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 17:37:02 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 145.0282550007105ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:31:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:35:56 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 46.272370997816324ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:31:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 08:35:56 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 93.88989600166678ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:35:56 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:20:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 17:37:02 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:25:28 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 172.68283199891448ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:35:56 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:20:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 17:37:02 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:25:28 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 177.28164299950004ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:20:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:21:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:25:28 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:26:53 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 119.60269999876618ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:20:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:21:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:25:28 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:26:53 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 88.77509899809957ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:21:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:22:55 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:26:53 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:28:17 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 71.85976899787784ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:21:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:22:55 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:26:53 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:28:17 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 111.22631100192666ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:22:55 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:25:25 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:28:17 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:30:45 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 129.2794339992106ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:22:55 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:25:26 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:28:17 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:30:45 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 112.49942400306463ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:25:25 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:26:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:30:45 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:31:56 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 71.09193800017238ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:25:26 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:26:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:30:45 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:31:56 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 115.51411500200629ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:26:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:27:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:31:56 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:32:52 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 87.46981899812818ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:26:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:27:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:31:56 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:32:52 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 121.4362020008266ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:27:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:28:43 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:32:52 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:34:05 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 71.58052200078964ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:27:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:28:43 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:32:52 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:34:05 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 109.44889399781823ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:28:43 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:29:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:34:05 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:34:37 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 116.75611099973321ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:28:43 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:29:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:34:05 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:34:37 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 222.58511899784207ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:29:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:29:44 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:34:37 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:35:06 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 129.11136399954557ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:29:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 09:29:44 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/PRE.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts.
+debug: Resolve file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts from cce:/internal/x/prerequisite-imports as file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/scroll.ts.
+debug: Detected change: file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts. Last mtime: Tue Sep 07 2021 18:34:37 GMT+0530 (India Standard Time), Current mtime: Tue Sep 07 2021 18:35:06 GMT+0530 (India Standard Time)
+debug: Inspect file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/chandankrishnani/CocosPractice/PREFAB/assets/SCRIPT/abc.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 166.09705099835992ms.
